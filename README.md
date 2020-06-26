@@ -1,4 +1,4 @@
-## Class for Week 3 of Python
+## Assignment No 1
 Here is code notebook for class 3. You can practice it.
 ## Assignment
 Your first assignment is to write code for list operations
