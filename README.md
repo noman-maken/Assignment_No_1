@@ -1,7 +1,7 @@
 ## Assignment No 1
-Here is code notebook for class 3. You can practice it.
+
 ## Assignment
-Your first assignment is to write code for list operations
+
 
 ### 1. Indexing
 Write code for retriving values from list by indexing and `print` a statement message for given lists
